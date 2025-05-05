@@ -13,8 +13,7 @@
   },
   "kv_namespaces": [
     {
-      "binding": "TO_DO_LIST",
-      "id": "cf8aa41453dc4be09ff86530895773e1"
+      "binding": "TO_DO_LIST"
     }
   ]
 }
